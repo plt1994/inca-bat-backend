@@ -2,3 +2,4 @@ Flask-Cors
 flask-mongoengine
 Flask-RESTful
 dnspython
+ibm-watson>=5.3.0
